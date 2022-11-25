@@ -16,10 +16,10 @@ belajar menggunakan microservice backend dengan laravel sanctum
 # link to tutotial
 link belajar:https://www.youtube.com/results?search_query=Laravel+Microservices+for+Beginners+
 
-#fitur yang ada baru sedikit 
+# fitur yang ada baru sedikit 
 1. internal Http Requests
 2. Unreliable Http Requests
 3. show api
 4. single api create
-6. nanti mau di tambah fitur cron job
+5. nanti mau di tambah fitur cron job
 
